@@ -419,6 +419,7 @@ form input[type='text'] {
     }
     .search__box {
         top: -120px;
+        background-image: url(/images/bg-shorten-mobile.svg);
     }
     form {
         display: flex;
